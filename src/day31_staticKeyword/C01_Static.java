@@ -16,6 +16,7 @@ public class C01_Static {
 
     {
         System.out.println("Instance blok çalıştı");
+
     }
 
     public C01_Static(){
